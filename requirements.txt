@@ -5,5 +5,7 @@ pandas
 plotly
 seaborn
 scikit-learn
+skorch
 statsmodels
+torch
 xgboost
