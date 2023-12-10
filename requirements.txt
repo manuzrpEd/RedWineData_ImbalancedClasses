@@ -5,6 +5,7 @@ pandas
 plotly
 seaborn
 scikit-learn
+shap
 skorch
 statsmodels
 torch
